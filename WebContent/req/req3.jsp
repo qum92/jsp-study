@@ -3,5 +3,4 @@
 <%@ page session=false %>
 <%=pageContext.getAttribute("난") %>
 <%=request.getAttribute("종인")%>
-<%=session.getAttribute("backend")%>
 <%=application.getAttribute("왜웃어?") %>
